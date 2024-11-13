@@ -31,11 +31,6 @@ This project provides a foundation for sentiment analysis in urban planning, hel
 - **matplotlib**: For plotting sentiment scores.
 - **numpy**: For numerical operations.
 
-Install the necessary packages using:
-
-```bash
-pip install snownlp pandas matplotlib numpy
-
 
 ## 📁 Explanation of the Script
 The script loads comments from `sample.csv` and uses `SnowNLP` to calculate a sentiment score for each comment (ranging from 0 to 1).
